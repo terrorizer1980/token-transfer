@@ -9,7 +9,7 @@
   "author": "Rahul Sethuram",
   "license": "ISC",
   "dependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
     "@typechain/hardhat": "^2.0.1",
     "dotenv": "^9.0.2",
     "ethers": "^5.1.4",
